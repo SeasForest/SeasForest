@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img
   src="https://github-stats.ubrong.com/api?username=SeasForest&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=333333&icon_color=6e9eff&bg_color=0,ffffff,f3f6ff"
