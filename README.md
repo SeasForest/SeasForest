@@ -47,10 +47,10 @@
 <div align="center">
 
 <img height="150"
-  src="https://github-readme-stats.vercel.app/api?username=LinFallen&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=333333&icon_color=6e9eff&bg_color=0,ffffff,f3f6ff" />
+  src="https://github-readme-stats.vercel.app/api?username=SeasForest&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=333333&icon_color=6e9eff&bg_color=0,ffffff,f3f6ff" />
 
 <img height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinFallen&layout=compact&hide_border=true&langs_count=6&text_color=333333&bg_color=0,ffffff,f3f6ff" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeasForest&layout=compact&hide_border=true&langs_count=6&text_color=333333&bg_color=0,ffffff,f3f6ff" />
 
 </div>
 
