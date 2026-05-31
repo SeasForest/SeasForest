@@ -1,81 +1,74 @@
-<div align="center">
+# Seas Forest
 
-# 👋 Hi, I'm **Seas Forest**
+**Engineering systems, CAD/CAM workflows, and small AI tools that turn messy
+ideas into usable software.**
 
-### 🖥️ Windows Desktop Developer · ⚙️ CAD / CAM Engineer
+我关注工程软件里的几何、排样、刀路、性能和可靠性，也喜欢把有趣的工作流
+做成可复用的 AI Skill。
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LinFallen&bg_color=ffffff&color=555555&line=6e9eff&point=cccccc&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 💻 **Windows Desktop Developer**
-- ⚙️ **CAD / CAM 从业者**
-- 🧩 Focus on **Geometry Kernel / Nesting / G-Code Generation**
-- 🛠️ Engineering-oriented, architecture & performance driven
+- [Email](mailto:seasforest@outlook.com)
+- [X / @seasylvan](https://x.com/seasylvan)
+- [Writing](https://mp.weixin.qq.com/s/Y38DrO2AEgd26LRUcDmbhg)
 
 ---
 
-## 🧰 Tech Stack
+## Build Direction / 构建方向
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-E62431?style=flat-square&logo=embarcadero&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+- **CAD/CAM Engineering**: reliable workflows from geometry data to
+  manufacturable output.
+- **Geometry & Nesting**: geometry handling, layout strategy, optimization,
+  and practical constraints.
+- **G-code Workflows**: toolpath-adjacent logic, machine-facing output,
+  validation, and iteration.
+- **AI Skills & Tooling**: reusable Codex skills and small tools that encode
+  repeatable creative or engineering workflows.
 
-### CAD / Graphics
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![OpenCascade](https://img.shields.io/badge/OpenCascade-005386?style=flat-square)
-![WASM](https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+## Current Focus / 近期关注
 
-### Tooling
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+- Turning complicated engineering workflows into calm, inspectable tools.
+- Building around geometry kernels, nesting problems, and G-code generation.
+- Designing desktop-first software that values performance, reliability, and clear architecture.
+- Exploring AI-assisted workflows that are useful because they are specific,
+  not because they are loud.
+
+## Selected Work / 作品与能力
+
+### Public project
+
+- [**pit-wall-roast**](https://github.com/SeasForest/pit-wall-roast)  
+  A Codex skill that turns articles, scripts, links, or topics into F1-flavored
+  satirical cartoon prompts. It is an experiment in encoding taste, critique,
+  and visual direction into a reusable AI workflow.
+
+### Working areas
+
+- **Geometry Kernel**: CAD model handling, topology/shape thinking, and kernel
+  integration.
+- **Nesting**: layout, material usage, constraints, and algorithmic tradeoffs.
+- **G-code Generation**: converting structured intent into machine-facing
+  instructions.
+- **Windows Desktop Tooling**: native-feeling engineering tools with practical
+  UI and stable workflows.
+- **AI Skill Design**: turning repeatable judgment into documented, reusable
+  agent skills.
+
+## Toolbox / 工具箱
+
+- **Languages**: TypeScript, Delphi, C#
+- **CAD / Graphics**: OpenCascade, WebGL, Three.js, WASM
+- **Desktop**: Windows, Visual Studio, VS Code
+- **Workflow**: GitHub, Markdown specs, Codex Skills
+
+## Writing / 写作
+
+- [从工程实践出发的一点思考](https://mp.weixin.qq.com/s/Y38DrO2AEgd26LRUcDmbhg)  
+  工程实践和思考记录。
+
+## Contact / 联系
+
+- Email: [seasforest@outlook.com](mailto:seasforest@outlook.com)
+- X: [@seasylvan](https://x.com/seasylvan)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img
-  src="https://github-stats.ubrong.com/api?username=SeasForest&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=333333&icon_color=6e9eff&bg_color=0,ffffff,f3f6ff"
-  width="400"
-/>
-
-<img
-  src="https://github-stats.ubrong.com/api/top-langs/?username=SeasForest&layout=compact&hide_border=true&langs_count=6&text_color=333333&bg_color=0,ffffff,f3f6ff"
-  width="330"
-/>
-
-</div>
-
----
-
-## ✍️ Blog
-
-📘 **工程与思考记录**
-
-👉 [从工程实践出发的一点思考](https://mp.weixin.qq.com/s/Y38DrO2AEgd26LRUcDmbhg)
-
----
-
-## 📬 Contact
-
-- 📧 **Email**: seasforest@outlook.com
-
----
-
-<div align="center">
-
-**“Good engineering is calm, quiet, and reliable.”**
-
-</div>
+> Good engineering is calm, quiet, and reliable.
